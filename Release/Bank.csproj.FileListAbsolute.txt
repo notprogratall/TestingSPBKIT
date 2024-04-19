@@ -1,0 +1,8 @@
+C:\Users\stud\Desktop\Davidyuk\Code\Bank\bin\Release\Bank.exe.config
+C:\Users\stud\Desktop\Davidyuk\Code\Bank\bin\Release\Bank.exe
+C:\Users\stud\Desktop\Davidyuk\Code\Bank\bin\Release\Bank.pdb
+C:\Users\stud\Desktop\Davidyuk\Code\Bank\obj\Release\Bank.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\Davidyuk\Code\Bank\obj\Release\Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud\Desktop\Davidyuk\Code\Bank\obj\Release\Bank.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\Davidyuk\Code\Bank\obj\Release\Bank.exe
+C:\Users\stud\Desktop\Davidyuk\Code\Bank\obj\Release\Bank.pdb
